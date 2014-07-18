@@ -1,0 +1,6 @@
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\bin\Debug\InternationalServerHoNPatcher.exe.config
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\bin\Debug\InternationalServerHoNPatcher.exe
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\bin\Debug\InternationalServerHoNPatcher.pdb
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\obj\Debug\InternationalServerHoNPatcher.exe
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\obj\Debug\InternationalServerHoNPatcher.pdb
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\obj\Debug\InternationalServerHoNPatcher.csprojResolveAssemblyReference.cache

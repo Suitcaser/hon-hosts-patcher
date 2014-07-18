@@ -1,0 +1,5 @@
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\bin\Release\InternationalServerHoNPatcher.exe.config
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\bin\Release\InternationalServerHoNPatcher.exe
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\bin\Release\InternationalServerHoNPatcher.pdb
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\obj\Release\InternationalServerHoNPatcher.exe
+C:\Users\Денис\documents\visual studio 2013\Projects\HONHostsPatcher\InternationalServerHoNPatcher\obj\Release\InternationalServerHoNPatcher.pdb
